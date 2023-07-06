@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksfggv_78282=self.webpackChunksfggv_78282||[]).push([[237],{3808:(e,n,t)=>{t.r(n),t.d(n,{default:()=>f});var s=t(7294),c=(t(9960),t(2263));function f(){const{siteConfig:e}=(0,c.Z)();return(0,s.useEffect)((()=>{window.location="/docs/intro"}),[]),s.createElement(s.Fragment,null)}}}]);
